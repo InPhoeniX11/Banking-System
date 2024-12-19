@@ -28,7 +28,7 @@ public:
     void report() const;    //function to show data in tabular format
     int retacno() const;    //function to return account number
     int retdeposit() const; //function to return balance amount
-    char rettype() const;   //function to return type of account
+    char rettype() const;   //function to return type of account123
 };         //class ends here
 
 void account::create_account()
